@@ -11,7 +11,7 @@
   
    <h3>Contact Information</h3>
    <p>&#127968; Kingston upon Hull, UK &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9742; +44-7443855025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9993; abrahamyalcin@outlook.com</p>
-   <p><a href="http://www.linkedin.com/in/ibraham">&#128279; ibraham</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/abrahamsteep90">&#128187; abrahamsteep90</a>      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://abrahamsteep90.github.io/My-Portfolio/">&#127760; Portfolio</a></p>
+   <p><a href="http://www.linkedin.com/in/ibraham"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 16px; height: 16px;"></a> ibraham &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/abrahamsteep90"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width: 16px; height: 16px;"></a> abrahamsteep90 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://abrahamsteep90.github.io/My-Portfolio/">&#127760; Portfolio</a></p>
   
   <h3>Objective</h3>
   <p>I am a highly motivated Data Scientist with 5+ years of experience in building effective data pipelines and data science solutions. I am seeking a challenging role where I can apply my passion for Machine Learning to drive business growth and improve organizational performance. With proficiency in predictive modelling, data mining algorithms, and programming languages such as Python, TensorFlow, and C#, I am capable of developing, testing, and deploying new code on an ongoing basis while leveraging my expertise in time series data and ETL to deliver actionable insights and drive data-driven decision-making. I am committed to delivering high-quality results and contributing to the success of the organization through my analytical thinking, problem-solving skills, and ability to work collaboratively in a team environment.</p>
@@ -87,6 +87,17 @@
         <li>Machine Learning: TensorFlow (NLP, DNN, CNN, RNN)</li>
         <li>Version Control: Azure DevOps, GitHub</li>
         <li>Web 3</li>
+      </ul>
+
+      <h3>Certificates</h3>
+      <ul>
+        <li>TensorFlow: Data and Deployment</li>
+        <li>DeepLearning.AI TensorFlow Developer</li>
+        <li>IBM Applied Artificial Intelligence Specialization</li>
+        <li>The Applied Data Science, WorldQuant University</li>
+        <li>IBM Data Science Professional Certificate</li>
+        <li>Google IT Support Professional Certificate</li>
+        <li>IBM Cybersecurity Analyst</li>
       </ul>
     </div>
   </div>
