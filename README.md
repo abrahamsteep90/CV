@@ -61,17 +61,16 @@
       </ul>
     </div>
     
-    <div style="flex: 1; background-color: lightblue; border: 2px solid rgba(0, 112, 192, 0.5); border-radius: 10px; padding: 10px; margin-bottom: 20px;">
+    <div style="flex: 1; background-color: #e0ecf8; border: 2px solid rgba(0, 112, 192, 0.5); border-radius: 10px; padding: 10px; margin-bottom: 20px;">
       <h3 style="text-align: justify;">Education</h3>
       <ul>
-       <li><a href="https://www.credly.com/badges/8ff2e4d6-fb3c-462a-8570-5251b9ee35fc/public_url">MSc Financial Engineering</a>, WorldQuant University, 2019-2021, USA
-  <ul>
-   <li><strong>Thesis:</strong> <a href="https://github.com/abrahamsteep90/MSs_CapstoneProject">Principal Component Analysis of US Treasury Yield Curve</a></li>
-    <li><strong>Supervisor:</strong> Kenneth Abbott</li>
-    <li><strong>GPA:</strong> 93%</li>
-  </ul>
-</li>
-
+        <li><a href="https://www.credly.com/badges/8ff2e4d6-fb3c-462a-8570-5251b9ee35fc/public_url">MSc Financial Engineering</a>, WorldQuant University, 2019-2021, USA
+          <ul>
+            <li><strong>Thesis:</strong> <a href="https://github.com/abrahamsteep90/MSs_CapstoneProject">Principal Component Analysis of US Treasury Yield Curve</a></li>
+            <li><strong>Supervisor:</strong> Kenneth Abbott</li>
+            <li><strong>GPA:</strong> 93%</li>
+          </ul>
+        </li>
         <li>BSc Mathematics, Ataturk University, 2007-2011, Turkey</li>
       </ul>
 
