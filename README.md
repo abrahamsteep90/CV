@@ -60,7 +60,8 @@
         <li>UK, LLR until Aug, 2026</li>
       </ul>
     </div>
-    <div style="flex: 1; margin-right: 20px;">
+    
+    <div style="flex: 1; background-color: lightblue; border: 2px solid rgba(0, 112, 192, 0.5); border-radius: 10px; padding: 10px; margin-bottom: 20px;">
       <h3 style="text-align: justify;">Education</h3>
       <ul>
        <li><a href="https://www.credly.com/badges/8ff2e4d6-fb3c-462a-8570-5251b9ee35fc/public_url">MSc Financial Engineering</a>, WorldQuant University, 2019-2021, USA
