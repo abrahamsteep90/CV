@@ -8,11 +8,11 @@
       <h2 style="text-align: left;">Data Scientist - C#/Python Developer</h2>
     </div>
   </div>
-  
+
   <h3 style="text-align: justify;">Contact Information</h3>
   <p>&#127968; Kingston upon Hull, UK &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9742; +44-7443855025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &#9993; abrahamyalcin@outlook.com</p>
   <p style="text-align: justify;"><a href="https://www.linkedin.com/in/abraham-yalcin/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 16px; height: 16px;"> Ibrahim Yalcin</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/abrahamsteep90"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width: 16px; height: 16px;"> abrahamsteep90</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://abrahamsteep90.github.io/My-Portfolio/">&#127760; Portfolio</a></p>
-  
+
   <h3 style="text-align: justify;">Objective</h3>
   <p style="text-align: justify;">I am a highly motivated Data Scientist with 5+ years of experience in building effective data pipelines and data science solutions. I am seeking a challenging role where I can apply my passion for Machine Learning to drive business growth and improve organizational performance. With proficiency in predictive modelling, data mining algorithms, and programming languages such as Python, TensorFlow, and C#, I am capable of developing, testing, and deploying new code on an ongoing basis while leveraging my expertise in time series data and ETL to deliver actionable insights and drive data-driven decision-making. I am committed to delivering high-quality results and contributing to the success of the organization through my analytical thinking, problem-solving skills, and ability to work collaboratively in a team environment.</p>
 
@@ -60,7 +60,7 @@
         <li>UK, LLR until Aug, 2026</li>
       </ul>
     </div>
-    
+
     <div style="flex: 1; background-color: #e0ecf8; border: 3px solid rgba(0, 112, 192, 0.5); border-radius: 30px; padding: 10px; margin-bottom: 20px;">
       <h3 style="text-align: justify;">Education</h3>
       <ul>
