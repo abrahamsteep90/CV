@@ -1,7 +1,7 @@
 <div>
   <div style="display: flex;">
     <div style="flex: 1;">
-      <img src="https://drive.google.com/uc?export=view&id=1Fh2fF6RC0UD4CTyx18nMnBOolL1Q3EOe" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+      <img src="https://drive.google.com/file/d/1Fh2fF6RC0UD4CTyx18nMnBOolL1Q3EOe/view?usp=sharing" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
     </div>
     <div style="flex: 2;">
       <h1 style="text-align: left;">Ibrahim Yalcin</h1>
