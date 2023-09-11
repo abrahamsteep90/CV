@@ -14,7 +14,7 @@
   <p style="text-align: justify;"><a href="https://www.linkedin.com/in/abraham-yalcin/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width: 16px; height: 16px;"> Ibrahim Yalcin</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/abrahamsteep90"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width: 16px; height: 16px;"> abrahamsteep90</a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://abrahamsteep90.github.io/My-Portfolio/">&#127760; Portfolio</a></p>
 
   <h3 style="text-align: justify;">Objective</h3>
-  <p style="text-align: justify;">I am a highly motivated Data Scientist with over 5 years of experience in building effective data pipelines and developing data science solutions, including payroll and HR solutions. I have proficiency in predictive modelling, data mining algorithms, and programming languages such as Python, TensorFlow, and C#. My capabilities include developing, testing, and deploying new code on an ongoing basis. I leverage my expertise in time series data and ETL (Extract, Transform, Load) processes to deliver actionable insights and drive data-driven decision-making. </p>
+  <p style="text-align: justify;">I am a highly motivated Data Scientist - C#/Python Developer with over 5 years of experience in building effective data pipelines and developing data science solutions, including payroll and HR solutions. I have proficiency in predictive modelling, data mining algorithms, and programming languages such as Python, TensorFlow, and C#. My capabilities include developing, testing, and deploying new code on an ongoing basis. I leverage my expertise in time series data and ETL (Extract, Transform, Load) processes to deliver actionable insights.</p>
 
   <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 1;">
@@ -26,14 +26,9 @@
           Juniper Education
         </li>
         <li>
-          <strong>2018 - 2021</strong><br>
+          <strong>2017 - 2021</strong><br>
           Financial Data Scientist – Python Developer<br>
           Paragon Education
-        </li>
-        <li>
-          <strong>2017 - 2018</strong><br>
-          Data Analyst<br>
-          Torain Global IT Solution
         </li>
         <li>
           <strong>2011 - 2017</strong><br>
@@ -42,10 +37,20 @@
         </li>
       </ul>
 
-      <h3 style="text-align: justify;">Volunteering</h3>
+      <h3 style="text-align: justify;">Certificates</h3>
       <ul>
-        <li>Dialogue Society 
-        </li>
+        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VW22TKUX9E8S">TensorFlow: Data and Deployment</a></li>
+        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FREDR8Q42YSJ">DeepLearning.AI TensorFlow Developer</a></li>
+        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/2FX8MYXMYV33">IBM Applied Artificial Intelligence Specialization</a></li>
+        <li><a href="https://wqu.thedataincubator.com/certificate/5626716970024960_full">The Applied Data Science, WorldQuant University</a></li>
+        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3S3EMMR8GJ45">IBM Data Science Professional Certificate</a></li>
+        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/HXH5XG6LB3R3">Google IT Support Professional Certificate</a></li>
+        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7SEMAG8WQTW8">IBM Cybersecurity Analyst</a></li>
+      </ul>
+      
+     <h3 style="text-align: justify;">Volunteering</h3>
+      <ul>
+        <li>Dialogue Society</li>
       </ul>
 
       <h3 style="text-align: justify;">Languages</h3>
@@ -60,7 +65,7 @@
       </ul>
     </div>
 
-    <div style="flex: 1; background-color: #e0ecf8; border: 3px solid rgba(0, 112, 192, 0.5); border-radius: 30px; padding: 10px; margin-bottom: 20px;">
+    <div style="flex: 1; padding-left: 20px;">
       <h3 style="text-align: justify;">Education</h3>
       <ul>
         <li><a href="https://www.credly.com/badges/8ff2e4d6-fb3c-462a-8570-5251b9ee35fc/public_url">MSc Financial Engineering</a>, WorldQuant University, 2019-2021, USA
@@ -78,26 +83,35 @@
         <li>Programming/Query Languages:
           <ul>
             <li>C#, LINQ, T-SQL</li>
-            <li>Python (scikit-learn, NumPy, Pandas)</li>
-            <li>R, JavaScript, CSS, HTML</li>
+            <li>Python (NumPy, Pandas), R</li>
+            <li>JavaScript, CSS, HTML</li>
             <li>Solidity</li>
           </ul>
         </li>
-        <li>Developer Platform: .NET, Microsoft Azure, Google Cloud</li>
-        <li>Machine Learning: TensorFlow (NLP, DNN, CNN, RNN)</li>
-        <li>Version Control: Azure DevOps, GitHub</li>
-        <li>Web 3</li>
-      </ul>
-
-      <h3 style="text-align: justify;">Certificates</h3>
-      <ul>
-        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VW22TKUX9E8S">TensorFlow: Data and Deployment</a></li>
-        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FREDR8Q42YSJ">DeepLearning.AI TensorFlow Developer</a></li>
-        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/2FX8MYXMYV33">IBM Applied Artificial Intelligence Specialization</a></li>
-        <li><a href="https://wqu.thedataincubator.com/certificate/5626716970024960_full">The Applied Data Science, WorldQuant University</a></li>
-        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3S3EMMR8GJ45">IBM Data Science Professional Certificate</a></li>
-        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/HXH5XG6LB3R3">Google IT Support Professional Certificate</a></li>
-        <li><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/7SEMAG8WQTW8">IBM Cybersecurity Analyst</a></li>
+        <li>Development Platforms:
+          <ul>
+            <li>.NET</li>
+            <li>Microsoft Azure</li>
+            <li>Google Cloud</li>
+          </ul>
+        </li>
+        <li>Machine Learning and Deep Learning:
+          <ul>
+            <li>SciKit-Learn, K-Means, SVM, PCA</li>
+            <li>TensorFlow, Keras</li>
+            <li>Natural Language Processing</li>
+            <li>Deep Neural Networks</li>
+            <li>Convolutional Neural Networks</li>
+            <li>Recurrent Neural Networks</li>
+            <li>Long Short-Term Memory</li>
+          </ul>
+        </li>
+        <li>Version Control:
+          <ul>
+            <li>Azure DevOps</li>
+            <li>GitHub</li>
+          </ul>
+        </li>
       </ul>
     </div>
   </div>
