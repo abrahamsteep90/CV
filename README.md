@@ -36,15 +36,12 @@
 
   * { box-sizing: border-box; }
 
-  body {
+  .cv-shell {
     background: var(--bg);
     color: var(--ink);
     font-family: "IBM Plex Sans", -apple-system, "Segoe UI", sans-serif;
     padding-inline: 16px;
     padding-block: 32px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
   }
 
   .preview-note {
@@ -84,7 +81,7 @@
   }
   .tab-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
-  .sheet-wrap { width: 100%; max-width: 900px; }
+  .sheet-wrap { width: 100%; max-width: 900px; margin: 0 auto; }
 
   .sheet {
     background: var(--sheet);
@@ -346,6 +343,7 @@
 
 </head>
 <body>
+<div class="cv-shell">
 <div class="sheet-wrap">
   <section class="sheet dc-scope">
     <header class="identity">
@@ -519,6 +517,7 @@
 
     <footer class="trailer">Indefinite Leave to Remain &mdash; full right to work in the UK &middot; 2 weeks' notice period &middot; References on request</footer>
   </section>
+</div>
 </div>
 </body>
 </html>
